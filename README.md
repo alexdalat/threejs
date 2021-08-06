@@ -1,4 +1,4 @@
 # threejs
-My first attack at using three.js (and 3D in browsers in general).
+My first attack at using three.js (and 3D on the GPU in general).
 
 Enjoy
